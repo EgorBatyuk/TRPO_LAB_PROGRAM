@@ -1,0 +1,17 @@
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database.mdf
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database_log.ldf
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Input.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LoginPassword.mdf
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LoginPassword_log.ldf
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
